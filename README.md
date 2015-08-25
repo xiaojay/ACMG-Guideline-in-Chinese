@@ -61,4 +61,4 @@
 
 
 # 开源协议
-基于[WTFPL](http://en.wikipedia.org/wiki/WTFPL)协议开源。
+基于管你卵用[WTFPL](http://en.wikipedia.org/wiki/WTFPL)协议开源。
